@@ -1,7 +1,16 @@
 ### Project2
 
+### Obs.:
+- Projeto reenviado. Correções realizadas após revisão.
+
 ### Compilação:
 - Apk para Android.
+
+### Versão do Unity:
+- 5.5.1f1.
+
+### Versão do Gvr:
+- 1.0.
 
 ### Nome:
 - Robson Silva dos Santos.
